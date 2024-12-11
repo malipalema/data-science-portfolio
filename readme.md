@@ -58,4 +58,3 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 I also dabble in all other kinds of technology. You can find a general portfolio [here](https://github.com/sajal2692/general-portfolio/blob/master/README.md).
 
-If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at malipalema@gmail.com. 
